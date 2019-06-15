@@ -1,0 +1,19 @@
+{
+  "name": "investments",
+  "version": "1.0.0",
+  "description": "[`DEMO`](https://stackblitz.com/edit/investments)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fles/investments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fles/investments/issues"
+  },
+  "homepage": "https://github.com/Fles/investments#readme"
+}
